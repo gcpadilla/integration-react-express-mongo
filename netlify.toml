@@ -1,5 +1,5 @@
 [build]
   # this will be run the site build
-  command: = "env && npm install && npm Run build"
+  command: = "env && npm install && npm run build"
   # serve all files in this directory statically
   publish = "dist/frontend"
